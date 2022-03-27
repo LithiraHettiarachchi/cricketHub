@@ -350,12 +350,6 @@ footer .next_btn:hover{
     cursor: pointer;
     transition: all 0.3s ease;
 }
-.editor{
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    color: white;
-}
 
 
 

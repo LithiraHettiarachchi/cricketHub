@@ -36,3 +36,8 @@ a{
 a:hover{
     background-color: rgb(0, 132, 255);
 }
+.link{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
