@@ -1,0 +1,31 @@
+/*Styling Body*/
+body{
+	background-color: lightblue;
+}
+p{
+	font-size: 20px;
+}
+/*For title*/
+.h1{
+	font-family: 'Georgia',sans-serif;
+	font-size: 70px;
+}
+/*Background Image styling*/
+.img{
+	float: right;
+	padding-right: 100px;
+	height: 500px;
+}
+ul {
+  list-style-type: none;
+  float: right;
+ 
+}
+li{
+	display: inline;
+	margin-right: 40px;
+	
+}
+.imga{
+	si
+}
