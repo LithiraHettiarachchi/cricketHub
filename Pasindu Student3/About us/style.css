@@ -83,6 +83,18 @@ body, html{
     transform: translateY(60px);
     transition: 0.5s;
 }
+a:link, a:visited {
+  background-color: green;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: pink;
+}
 
 
 
