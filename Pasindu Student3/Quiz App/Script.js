@@ -79,8 +79,8 @@ function showQuestions(index){
     }
 }
 
-let tickIcon ='<div class="icon tick">&checkmark;</i></div>';
-let crossIcon ='<div class="icon cross">&cross;</i></div>';
+let tickIcon ='<div class="icon tick">&checkmark;</div>';
+let crossIcon ='<div class="icon cross">&cross;</div>';
 
 function optionSelected(answer){
     clearInterval(counter);
